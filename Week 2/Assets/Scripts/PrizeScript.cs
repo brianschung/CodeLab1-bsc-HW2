@@ -10,7 +10,7 @@ public class PrizeScript : MonoBehaviour
     public GameObject myPrefab;
 
     public static int currentLevel = 0;
-    public int targetScore;
+    public static int targetScore;
 
     // Start is called before the first frame update
     void Start()
